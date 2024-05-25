@@ -12,7 +12,6 @@ public class TicTacToe {
     public void initializeBoard(){
         for(int i=0; i<3;i++){
             for(int j=0;j<i;j++){
-
             }
         }
     }
